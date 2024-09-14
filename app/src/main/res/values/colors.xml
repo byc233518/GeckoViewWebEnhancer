@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00000000</color>
+    <color name="colorPrimaryDark">#00000000</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorTextBlack">#3f2c51</color>
+    <color name="colorTextBlackLight">#7e7d86</color>
+    <color name="colorTextWhite">#fff</color>
+    <color name="colorTextGray">#888888</color>
+
+    <color name="white">#ffffff</color>
+    <color name="pagerColor">#f5f5f5</color>
+
+</resources>
